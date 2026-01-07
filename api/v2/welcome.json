@@ -3,22 +3,22 @@
         {
             "id":"2023-02-22 19:02:14",
             "title":"Jackbox Utility",
-            "smallDescription":"Welcome to Jackbox Utility!",
-            "content":"# This is the new version of Jackbox Utility!\n\nIn this new version, the English language is added to the application.\n\nEnjoy!",
+            "smallDescription":"Добро пожаловать в Jackbox Utility!",
+            "content":"# Это новая версия Jackbox Utility!\n\nВ этой новой версии был добавлен Английский язык.\n\nНаслаждайтесь!",
             "image":"news_images/jackboxutility.png"
         },
         {
             "id":"2023-02-22 19:02:14",
-            "title":"Join our Discord server!",
-            "smallDescription":"Join our Discord community server!",
-            "content":"# You need help? Wanna play some games?\n\nJoin our Discord server! You can also suggest features for the Utility.\n\n<https://discord.gg/CBTaTGx2zy>",
+            "title":"Присоединяйтесь к нашему Дискорд серверу!",
+            "smallDescription":"Присоединяйтесь к нашему Дискорд серверу",
+            "content":"# Нужна помощь? Хочешь поиграть в игры?\n\nПрисоединяйтесь к нашему Дискорд серверу! Вы также можете предлагать новые функции для Jackbox Utility.\n\n<https://discord.gg/CBTaTGx2zy>",
             "image":"news_images/discord.png"
         },
         {
             "id":"2023-02-22 19:02:14",
-            "title":"Game codes on EU/Canada!",
-            "smallDescription":"You can now buy game codes in EU and Canada!",
-            "content":"# If you're looking to buy the Jackbox games in these locations, you're in luck!\n\nWhen buying game codes in jackboxgames.com, you now get exclusive discounts in Europe and Canada, as well as in the United States.\n\nHappy buying!",
+            "title":"Игровые коды для Европы/Канады!",
+            "smallDescription":"Вы теперь можете покупать игровые коды для Европы и Канады!",
+            "content":"# Если вы ищите как купить игры Jackbox в этих локациях, вы нашли!\n\nКогда покупаете игровые коды в jackboxgames.com, вы теперь можете получить эксклюзивные скидки в Европе и Канаде, также как и в США.\n\nУдачных покупок!",
             "image":"news_images/banner.png"
         }
     ]
