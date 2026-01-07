@@ -8,7 +8,7 @@
         {
             "versions":["1.0.0"],
             "api":"https://raw.githubusercontent.com/DarkLord4563/JackboxUtility-Server-ru/main/api/v2/",
-            "assets":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets"
+            "assets":"https://raw.githubusercontent.com/DarkLord4563/JackboxUtility-Server-ru/main/assets"
         }
     ],
     "controller":"jackbox.fun",
